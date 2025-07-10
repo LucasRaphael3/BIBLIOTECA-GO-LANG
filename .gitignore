@@ -1,0 +1,10 @@
+biblioteca.db
+*.db
+*.log
+/data/
+/bin/
+*.exe
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
