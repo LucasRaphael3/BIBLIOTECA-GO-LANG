@@ -5,8 +5,8 @@ import (
 	"strconv"
 
 	"github.com/gin-gonic/gin"
-	"github.com/LucasRaphael3/biblioteca-api/internal/database" // Importa a variável database.DB
-	"github.com/LucasRaphael3/biblioteca-api/internal/models"   // Importa as structs
+	"github.com/LucasRaphael3/biblioteca-api/internal/database" 
+	"github.com/LucasRaphael3/biblioteca-api/internal/models"   
 )
 
 func ListarAutores(c *gin.Context) {
